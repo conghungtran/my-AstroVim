@@ -5,5 +5,8 @@ return {
   opts = {
     -- Force light theme as default
     colorscheme = "astrolight",
+    -- transparent_background = true,
+
   },
 }
+
